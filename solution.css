@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300;400;600&display=swap');
+body{
+    background-color: pink;
+    color: black;
+    font-family: 'Sansita Swashed', cursive;
+    text-align: center;
+}
+a{
+    color: white;
+    text-decoration: none;
+   
+}    
+#navbar{ 
+    height: 60px;
+    align-items: center;
+    background-color: black;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style-type: none;
+}
